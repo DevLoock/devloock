@@ -1,19 +1,40 @@
-# 💫 About Me:
-🔭 I'm integrating Android functionalities with artificial intelligence APIs.<br>🌱 Currently exploring Jetpack Compose, honing my UI and Android skills.<br>💬 Ask me about Android, coding, or any related topics.<br>⚡ Fun fact: I'm captivated by AI-related content.
+![Profile Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, My name is Warut Loock
 
+## Certified Android Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/warut_loock/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/warut-loock-67b315228) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@DevLoock) 
+As a Certified Developer with 3 years' experience, my background in logistics complements my Android Development skills. I craft innovative apps for today's users, blending technical know-how with strong communication skills to deliver standout solutions.
 
-# 💻 Tech Stack:
+- 🌍  I'm based in Germany
+- ✉️  You can contact me at [droidcoderpie@gmail.com](mailto:droidcoderpie@gmail.com)
+- 🧠  I'm learning Jetpack Compose & UI-related tasks
+- 🤝  I'm open to collaborating on interesting projects
+
+### 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevLoock&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevLoock&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLoock&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+                    
+### 🌐 Socials
+                  
+<p align="left">
+  <a href="https://www.github.com/DevLoock" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <!-- Please replace 'undefined' with the correct link for the dark mode icon for Instagram and LinkedIn. -->
+  <a href="http://www.instagram.com/warut_loock" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/warut-loock-67b315228" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/@devloock" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevLoock&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
