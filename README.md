@@ -6,7 +6,7 @@ As a Certified Developer with closed to 3 years' experience and my background in
 
 - 🌍  I'm based in Germany
 - ✉️  You can contact me at [droidcoderpie@gmail.com](mailto:droidcoderpie@gmail.com)
-- 🧠  I'm learning Jetpack Compose & UI-related tasks
+- 🧠  I'm learning Jetpack Compose, UI-related tasks & AI Stuff
 - 🤝  I'm open to collaborating on interesting projects
 
 ### 💻 Tech Stack:
