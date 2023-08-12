@@ -2,7 +2,7 @@
 
 ## Certified Android Developer
 
-As a Certified Developer with 3 years' experience, my background in logistics complements my Android Development skills. I craft innovative apps for today's users, blending technical know-how with strong communication skills to deliver standout solutions.
+As a Certified Developer with closed to 3 years' experience, my background in logistics complements my Android Development skills. I craft innovative apps for today's users, blending technical know-how with strong communication skills to deliver standout solutions.
 
 - 🌍  I'm based in Germany
 - ✉️  You can contact me at [droidcoderpie@gmail.com](mailto:droidcoderpie@gmail.com)
