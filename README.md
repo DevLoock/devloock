@@ -29,7 +29,7 @@ As a Certified Developer with closed to 3 years' experience and my background in
   <a href="https://www.linkedin.com/in/warut-loock-67b315228" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://www.youtube.com/@devloock" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@warut-loock" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
   </a>
 </p>
@@ -39,7 +39,7 @@ As a Certified Developer with closed to 3 years' experience and my background in
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevLoock&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=warut-loock&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevLoock&icon=3&color=8)](https://visitcount.itsvg.in)
